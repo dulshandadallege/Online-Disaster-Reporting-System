@@ -1,0 +1,27 @@
+#wrapper2{
+    
+    width: 1125px;
+    
+    background-color: white;
+    opacity: 1;
+    margin: 0 auto;
+    padding: 10px;
+    border: 2px solid #dedede;
+   
+}
+
+#wrapper3{
+    
+    
+}
+
+
+#posts{
+    
+    height: 300px;
+    width: 1090px;
+    border: 2px solid lightblue;
+    padding: 5px;
+    margin: 5px auto;
+    
+}
